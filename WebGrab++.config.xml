@@ -15,14 +15,6 @@
   <timespan>365</timespan>
   <update>f</update>
  
-  <!--
-            Replace the next dummy channel entry with the channels you want.
-			You can look into the installed siteini.pack folder on your computer
-  
-            For the latest version,
-            see http://webgrabplus.com/epg-channels for the available sites/channels
-  -->
-  
   <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ FHD">Globo RJ FHD</channel>
   <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ FHD *">Globo RJ FHD *</channel>
   <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ HD">Globo RJ HD</channel>
