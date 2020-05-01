@@ -1,5 +1,4 @@
-﻿<?xml version="1.0"?>
-<settings>
+<tv generator-info-name="FiveTV" generator-info-url="http://cdn.5central.me:80/">
   <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ FHD">Globo RJ FHD</channel>
   <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ FHD *">Globo RJ FHD *</channel>
   <channel site="dummy" site_id="Globorj.br" update="i" xmltv_id="Globo RJ HD">Globo RJ HD</channel>
@@ -20,4 +19,6 @@
   <channel site="dummy" site_id="GloboBrasilia.br" update="i" xmltv_id="Globo Brasilia HD*">Globo Brasilia HD *</channel>
   <channel site="dummy" site_id="GloboBrasilia.br" update="i" xmltv_id="Globo Brasilia SD">Globo Brasilia SD</channel>
   <channel site="dummy" site_id="GloboBrasilia.br" update="i" xmltv_id="Globo Brasilia SD *">Globo Brasilia SD *</channel>
-</settings>
+  </desc>
+ </programme>
+</tv>
